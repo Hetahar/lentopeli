@@ -3,7 +3,7 @@
 ## **Overview**
 Karkuteillä is a fun and interactive game built using Python. The game integrates a **MariaDB database** to manage in-game data, such as player information and scores. This project demonstrates database interaction, game logic implementation, and GUI development. This was my first group programming project.
 
-To see a video demo of the game, follow this [link](https://drive.google.com/file/d/119xXjwAVxJbm-l_HId2AN8pGHddfZWnz/view?usp=sharing).
+#### To see a video demo of the game, follow this [link](https://drive.google.com/file/d/119xXjwAVxJbm-l_HId2AN8pGHddfZWnz/view?usp=sharing).
 ---
 
 ## **Features**
